@@ -1,0 +1,38 @@
+## Schedule
+
+Download this: [Guide to Math Notation in Jupyter](examples/MathNotationGuide.ipynb)
+
+
+| Day     | Title / Notes                                                      | Reading               | Homework                                   |
+|---------|--------------------------------------------------------------------|-----------------------|--------------------------------------------|
+| Th 1/19 |                                                                    |                       |                                            |
+| Tu 1/24 |                                                                    |                       |                                            |
+| Th 1/26 |                                                                    |                       |                                            |
+| Tu 1/31 |                                                                    |                       |                                            |
+| Th 2/2  |                                                                    |                       |                                            |
+| Tu 2/7  |                                                                    |                       |                                            |
+| Th 2/9  |                                                                    |                       |                                            |
+| Tu 2/14 |                                                                    |                       |                                            |
+| Th 2/16 |                                                                    |                       |                                            |
+| Tu 2/21 |                                                                    |                       |                                            |
+| Th 2/23 |                                                                    |                       |                                            |
+| Tu 2/28 |                                                                    |                       |                                            |
+| Th 3/2  |                                                                    |                       |                                            |
+| Tu 3/7  | *Spring Break -- no class* | | |
+| Th 3/9  | *Spring Break -- no class* | | |
+| Tu 3/14 |                                                                    |                       |                                            |
+| Th 3/16 |                                                                    |                       |                                            |
+| Tu 3/21 |                                                                    |                       |                                            |
+| Th 3/23 |                                                                    |                       |                                            |
+| Tu 3/28 |                                                                    |                       |                                            |
+| Th 3/30 |                                                                    |                       |                                            |
+| Tu 4/4  |                                                                    |                       |                                            |
+| Th 4/6  |                                                                    |                       |                                            |
+| Tu 4/11 |                                                                    |                       |                                            |
+| Th 4/13 |                                                                    |                       |                                            |
+| Tu 4/18 |                                                                    |                       |                                            |
+| Th 4/20 |                                                                    |                       |                                            |
+| Tu 4/25 |                                                                    |                       |                                            |
+| Th 4/27 |                                                                    |                       |                                            |
+| Tu 5/2  |                                                                    |                       |                                            |
+| Tu 5/9  | <td colspan=3> **Final Exam: 9 AM - 12 noon** |
