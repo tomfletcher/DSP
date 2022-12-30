@@ -35,4 +35,4 @@ Download this: [Guide to Math Notation in Jupyter](examples/MathNotationGuide.ip
 | Tu 4/25 |                                                                    |                       |                                            |
 | Th 4/27 |                                                                    |                       |                                            |
 | Tu 5/2  |                                                                    |                       |                                            |
-| Tu 5/9  | <td colspan=3> **Final Exam: 9 AM - 12 noon** |
+| Tu 5/9  | **Final Exam: 9 AM - 12 noon**                                     |                       |                                            |
