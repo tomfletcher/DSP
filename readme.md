@@ -25,9 +25,9 @@ specific interests.
 * **Location:** Thornton E316 and online via Zoom
 * **Instructor:** Tom Fletcher (ptf8v *AT* virginia *DOT* edu)
   - Office Hours: TBA
-* **TA:** TBA
+* **TA:** Aman Shrivistava
   - Office Hours: TBA
-* **TA:** TBA
+* **TA:** Qianhong Zhao
   - Office Hours: TBA
 
 * **Textbook:** TBA

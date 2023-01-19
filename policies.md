@@ -6,9 +6,9 @@
 
 **Anonymous Feedback.** Comments or suggestions are always welcome! Feel free to send them through the anonymous feedback tool in Collab.
 
-**Grading.** The final course grade is based on the homework assignments (TBA% total), quizzes (TBA%), and final exam (TBA%).
+**Grading.** The final course grade is based on the homework assignments (50%), group project (15%), quizzes (20%), and final exam (15%).
 
-Homework assignments will consist of writing Python code to solve problems as well as written questions. Submissions must be Jupyter notebooks, which lets you combine formatted text and Python code in an easy-to-use format.
+Homework assignments will consist of writing Python code to solve problems as well as written questions. Submissions must be Jupyter notebooks, which lets you combine formatted text, math notation, and Python code in an easy-to-use format.
 
 Homeworks are due by 11:59 PM on the due date. Late assignments will receive a 10% deduction during the first 24 hours they are late, and a 20% deduction if they are 24-48 hours late. Assignments will not be accepted beyond 48 hours late. If you have extenuating circumstances that would require an extension, for example, a medical emergency, please notify the instructor **before** the due date. Deadline extensions will not be given after the deadline has passed.
 
