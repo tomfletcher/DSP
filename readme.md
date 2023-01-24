@@ -30,5 +30,5 @@ specific interests.
 * **TA:** Qianhong Zhao
   - Office Hours: TBA
 
-* **Textbook:** TBA
+* **Textbook:** None required
 * **Software:** All homeworks will be done in [Jupyter](https://jupyter.org)

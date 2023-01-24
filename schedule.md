@@ -6,8 +6,8 @@ Download this: [Guide to Math Notation in Jupyter](examples/MathNotationGuide.ip
 | Day     | Title / Notes                                                      | Reading               | Homework                                   |
 |---------|--------------------------------------------------------------------|-----------------------|--------------------------------------------|
 | Th 1/19 | [Introduction](lectures/L00-Introduction.pdf)                      |                       |                                            |
-| Tu 1/24 |                                                                    |                       |                                            |
-| Th 1/26 |                                                                    |                       |                                            |
+| Tu 1/24 | [Signal Basics](lectures/L01-SignalBasics.pdf)                     |                       |                                            |
+| Th 1/26 | System Basics                                                     |                       |                                            |
 | Tu 1/31 |                                                                    |                       |                                            |
 | Th 2/2  |                                                                    |                       |                                            |
 | Tu 2/7  |                                                                    |                       |                                            |
