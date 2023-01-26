@@ -14,6 +14,12 @@ Homeworks are due by 11:59 PM on the due date. Late assignments will receive a 1
 
 If you believe there is an error in grading (homeworks or exams), you may request a regrading within one week of receiving your grade. Requests must be made in writing by email, explaining clearly why you think there was an error in your grade.
 
+**Late Penalty Waivers.**
+The first two days of homework late penalties that you incur will be waived. In other words, you will not receive the 10 pts deduction for either of the first two days you submit a late homework. This can be for used on any homework throughout the semester. You can take two days for a single homework, or one day each for two homeworks.
+
+**Graduate Sections.**
+Students in the graduate sections of the course (ECE/CS 6xxx) will be given extra, more advanced problems to solve on the homeworks and final exams. Students in the undergraduate sections (ECE/CS 4xxx) may also solve these problems to receive extra credit.
+
 Letter grade score ranges:
 
 | Letter | Score Range |
@@ -77,6 +83,3 @@ As your professor and as a person, know that I care about you and your well-bein
 It is the University's long-standing policy and practice to reasonably accommodate students so that they do not experience an adverse academic consequence when sincerely held religious beliefs or observances conflict with academic requirements.
 
 Students who wish to request academic accommodation for a religious observance should submit their request in writing directly to me by email as far in advance as possible. Students who have questions or concerns about academic accommodations for religious observance or religious beliefs may contact the University’s Office for Equal Opportunity and Civil Rights (EOCR) at <UVAEOCR@virginia.edu> or 434-924-3200.
-
-**Addendum (2/18/2022): Late Penalty Waivers.**
-The first two days of homework late penalties that you incur will be waived. In other words, you will not receive the 10 pts deduction for either of the first two days you submit a late homework. This can be for used on any homework throughout the semester. You can take two days for a single homework, or one day each for two homeworks.
