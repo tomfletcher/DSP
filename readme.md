@@ -24,11 +24,13 @@ specific interests.
 * **Time:** Tue/Thu 11:00 AM - 12:15 PM
 * **Location:** Thornton E316 and online via Zoom
 * **Instructor:** Tom Fletcher (ptf8v *AT* virginia *DOT* edu)
-  - Office Hours: TBA
+  - Office Hours: Mondays, 2 - 3 PM, Rice 306
 * **TA:** Aman Shrivistava
-  - Office Hours: TBA
+  - Office Hours: Tuesdays, 10 - 11 AM, Location TBD
+  - Office Hours: Wednesdays, 3 - 4 PM, Rice 442
 * **TA:** Qianhong Zhao
-  - Office Hours: TBA
+  - Office Hours: Tuesdays, 2 - 3 PM, Location TBD
+  - Office Hours: Thursdays, 9:30 - 10:30 AM, Rice 442
 
 * **Textbook:** None required
 * **Software:** All homeworks will be done in [Jupyter](https://jupyter.org)
