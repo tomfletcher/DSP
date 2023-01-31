@@ -8,11 +8,11 @@ Download this: [Guide to Math Notation in Jupyter](examples/MathNotationGuide.ip
 | Th 1/19 | [Introduction](lectures/L00-Introduction.pdf)                      |                       |                                            |
 | Tu 1/24 | [Signal Basics](lectures/L01-SignalBasics.pdf)                     |                       |                                            |
 | Th 1/26 | [System Basics](lectures/L02-SystemBasics.pdf)<br>[Karplus-Strong.ipynb](examples/Karplus-Strong.ipynb) |                       |                                            |
-| Tu 1/31 |                                                                    |                       |                                            |
+| Tu 1/31 | [Linear Time-Invariant Systems](lectures/L03-LTISystems.pdf)       |                       | [HW 1](homeworks/hw1.pdf), Due Wed 2/15    |
 | Th 2/2  |                                                                    |                       |                                            |
 | Tu 2/7  |                                                                    |                       |                                            |
 | Th 2/9  |                                                                    |                       |                                            |
-| Tu 2/14 |                                                                    |                       |                                            |
+| Tu 2/14 |                                                                    |                       | **HW 1 Due Wed 2/15**                      |
 | Th 2/16 |                                                                    |                       |                                            |
 | Tu 2/21 |                                                                    |                       |                                            |
 | Th 2/23 |                                                                    |                       |                                            |
