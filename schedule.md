@@ -10,7 +10,7 @@ Download this: [Guide to Math Notation in Jupyter](examples/MathNotationGuide.ip
 | Th 1/26 | [System Basics](lectures/L02-SystemBasics.pdf)<br>[Karplus-Strong.ipynb](examples/Karplus-Strong.ipynb) |                       |                                            |
 | Tu 1/31 | [Linear Time-Invariant Systems](lectures/L03-LTISystems.pdf)       |                       | [HW 1](homeworks/hw1.pdf), Due Wed 2/15<br>[woodchuck.wav](homeworks/woodchuck.wav)<br>[HW1-Start.ipynb](homeworks/HW1-Start.ipynb)  |
 | Th 2/2  | LTI Systems, cont.                                                 |                       |                                            |
-| Tu 2/7  | [Complex-Valued Signals](lectures/L04-ComplexSignals.pdf)<br>[ComplexSignals.ipynb](examples/ComplexSignals) |                       |                                            |
+| Tu 2/7  | [Complex-Valued Signals](lectures/L04-ComplexSignals.pdf)<br>[ComplexSignals.ipynb](examples/ComplexSignals.ipynb) |                       |                                            |
 | Th 2/9  | [Fourier Series](lectures/L05-FourierSeries.pdf)<br>**Quiz 1**<br>[BassesAndBassoons.ipynb](examples/BassesAndBassoons.ipynb)<br>[bass audio](examples/double-bass_A1_1_forte_arco-normal.wav)<br>[bassoon audio](examples/bassoon_A2_1_forte_normal.wav) |                       |                                            |
 | Tu 2/14 | The DFT and FFT                                                    |                       | **HW 1 Due Wed 2/15**                      |
 | Th 2/16 | The Z-Transform                                                    |                       |                                            |
