@@ -14,10 +14,10 @@ Download this: [Guide to Math Notation in Jupyter](examples/MathNotationGuide.ip
 | Th 2/9  | [Fourier Series](lectures/L05-FourierSeries.pdf)<br>**Quiz 1**<br>[BassesAndBassoons.ipynb](examples/BassesAndBassoons.ipynb)<br>[bass audio](examples/double-bass_A1_1_forte_arco-normal.wav)<br>[bassoon audio](examples/bassoon_A2_1_forte_normal.wav) |                       |                                            |
 | Tu 2/14 | [The Discrete Fourier Transform](lectures/L06-DiscreteFourierTransform.pdf) |              | **HW 1 Due Wed 2/15**                      |
 | Th 2/16 | [The DFT and Convolution](lectures/L07-DFTConvolution.pdf)<br>[DFT_Visualization.ipynb](examples/DFT_Visualization.ipynb) |                       |                                            |
-| Tu 2/21 | The z-Tranform                                                     |                       |                                            |
-| Th 2/23 | The z-Transform, cont.                                             |                       |                                            |
-| Tu 2/28 |                                                                    |                       |                                            |
-| Th 3/2  | **Quiz 2: L04 - L07**                                              |                       |                                            |
+| Tu 2/21 | [The Fast Fourier Transform and the Short-Time Fourier Transform](lectures/L08-FFT_STFT.pdf) |                       |                                            |
+| Th 2/23 | More STFT                                             |                       |                                            |
+| Tu 2/28 | The z-Transform                                                                   |                       |                                            |
+| Th 3/2  | More z-Transform<br>**Quiz 2: L04 - L07**                                              |                       |                                            |
 | Tu 3/7  | *Spring Break -- no class* | | |
 | Th 3/9  | *Spring Break -- no class* | | |
 | Tu 3/14 |                                                                    |                       |                                            |
