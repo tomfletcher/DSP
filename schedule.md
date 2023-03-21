@@ -22,11 +22,11 @@ Download this: [Guide to Math Notation in Jupyter](examples/MathNotationGuide.ip
 | Th 3/9  | *Spring Break -- no class* | | |
 | Tu 3/14 | [z-Transform](lectures/L10-zTransform.pdf)                         |                       |                                            |
 | Th 3/16 | [More z-Transform](lectures/L11-zTransform2.pdf)                   |                       |                                            |
-| Tu 3/21 |                                                                    |                       | **HW 2 Due**                               |
-| Th 3/23 |                                                                    |                       |                                            |
+| Tu 3/21 | [Poles and Zeros](lectures/L12-PolesAndZeros.pdf)                  |                       | [Project Proposal](project/proposal.pdf), Due Tue 4/4<br>**HW 2 Due** |
+| Th 3/23 | Frequency and Phase Response                                       |                       |                                            |
 | Tu 3/28 |                                                                    |                       |                                            |
 | Th 3/30 |                                                                    |                       |                                            |
-| Tu 4/4  |                                                                    |                       |                                            |
+| Tu 4/4  |                                                                    |                       | **Project Proposal Due**                   |
 | Th 4/6  |                                                                    |                       |                                            |
 | Tu 4/11 |                                                                    |                       |                                            |
 | Th 4/13 |                                                                    |                       |                                            |
