@@ -27,11 +27,11 @@ Download this: [Guide to Math Notation in Jupyter](examples/MathNotationGuide.ip
 | Tu 3/28 | [Phase and Group Delay](lectures/L14-PhaseAndGroupDelay.pdf)       |                       |                                            |
 | Th 3/30 | [All-Pass and Minimum-Phase Systems](lectures/L15-AllPassAndMinimumPhase.pdf) |            |                                            |
 | Tu 4/4  | [Sampling and Aliasing](lectures/L16-SamplingAndAliasing.pdf)      |                       | **Project Proposal Due**                   |
-| Th 4/6  |                                                                    |                       | **HW 3 Due**                               |
-| Tu 4/11 |                                                                    |                       |                                            |
-| Th 4/13 |                                                                    |                       |                                            |
+| Th 4/6  | [Interpolation and the Sampling Theorem](lectures/L17-InterpolationAndSamplingTheorem.pdf) |                       | **HW 3 Due**                               |
+| Tu 4/11 | [Filter Design Basics](lectures/L18-FilterDesignBasics.pdf)        |                       | [HW 4](homeworks/hw4.pdf), Due Thu 4/20    |
+| Th 4/13 | **Quiz 3**                                                         |                       |                                            |
 | Tu 4/18 |                                                                    |                       |                                            |
-| Th 4/20 |                                                                    |                       |                                            |
+| Th 4/20 |                                                                    |                       | **HW 4 Due**                               |
 | Tu 4/25 |                                                                    |                       |                                            |
 | Th 4/27 |                                                                    |                       |                                            |
 | Tu 5/2  |                                                                    |                       |                                            |
