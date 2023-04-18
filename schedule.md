@@ -29,8 +29,8 @@ Download this: [Guide to Math Notation in Jupyter](examples/MathNotationGuide.ip
 | Tu 4/4  | [Sampling and Aliasing](lectures/L16-SamplingAndAliasing.pdf)      |                       | **Project Proposal Due**                   |
 | Th 4/6  | [Interpolation and the Sampling Theorem](lectures/L17-InterpolationAndSamplingTheorem.pdf) |                       | **HW 3 Due**                               |
 | Tu 4/11 | [Filter Design Basics](lectures/L18-FilterDesignBasics.pdf)        |                       | [HW 4](homeworks/hw4.pdf), Due Thu 4/20    |
-| Th 4/13 | **Quiz 3**                                                         |                       |                                            |
-| Tu 4/18 |                                                                    |                       |                                            |
+| Th 4/13 | [More Filter Design](lectures/L19-MoreFilterDesign.pdf)<br>**Quiz 3** |                       |                                            |
+| Tu 4/18 | Introduction to Neural Networks                                    | [Deep Learning](https://www.deeplearningbook.org/), Ch 6  |                                            |
 | Th 4/20 |                                                                    |                       | **HW 4 Due**                               |
 | Tu 4/25 |                                                                    |                       |                                            |
 | Th 4/27 |                                                                    |                       |                                            |
