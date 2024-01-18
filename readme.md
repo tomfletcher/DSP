@@ -11,8 +11,8 @@ series data.
 This class is intended for students interested in signals, data
 analysis, or machine learning. Though not required, students might consider
 first taking Machine Learning, Foundations of Data Analysis (CS 3501 / ECE
-3502), or ECE Fundamentals III (which covers analog signals), depending on their
-specific interests.
+3502), or ECE Signals and Systems (which covers analog signals), depending on
+their specific interests.
 
 
 ## Prerequisites
@@ -24,13 +24,15 @@ specific interests.
 * **Time:** Tue/Thu 11:00 AM - 12:15 PM
 * **Location:** Thornton E316 and online via Zoom
 * **Instructor:** Tom Fletcher (ptf8v *AT* virginia *DOT* edu)
-  - Office Hours: Mondays, 2 - 3 PM, Rice 306
-* **TA:** Aman Shrivistava
-  - Office Hours: Tuesdays, 10 - 11 AM, Rice 108
-  - Office Hours: Wednesdays, 3 - 4 PM, Rice 442
+  - Office Hours: TBA
+* **TA:** Kidus Fasil
+  - Office Hours: TBA
+* **TA:** Oishee Hoque
+  - Office Hours: TBA
+* **TA:** Tonmoy Hossain
+  - Office Hours: TBA
 * **TA:** Qianhong Zhao
-  - Office Hours: Tuesdays, 2 - 3 PM, Rice 108
-  - Office Hours: Thursdays, 9:30 - 10:30 AM, Rice 442
+  - Office Hours: TBA
 
 * **Textbook:** None required
 * **Software:** All homeworks will be done in [Jupyter](https://jupyter.org)
