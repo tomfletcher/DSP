@@ -24,7 +24,7 @@ their specific interests.
 * **Time:** Tue/Thu 11:00 AM - 12:15 PM
 * **Location:** Thornton E316 and online via Zoom
 * **Instructor:** Tom Fletcher (ptf8v *AT* virginia *DOT* edu)
-  - Office Hours: TBA
+  - Office Hours: Wednesdays, 3 - 4pm in Rice 306
 * **TA:** Kidus Fasil
   - Office Hours: TBA
 * **TA:** Oishee Hoque
