@@ -7,11 +7,11 @@ Download this: [Guide to Math Notation in Jupyter](examples/MathNotationGuide.ip
 |---------|--------------------------------------------------------------------|-----------------------|--------------------------------------------|
 | Th 1/18 | [Introduction](lectures/L00-Introduction.pdf)                      |                       |                                            |
 | Tu 1/23 | [Signal Basics](lectures/L01-SignalBasics.pdf)                     |                       |                                            |
-| Th 1/25 | System Basics                                                      |                       |                                            |
-| Tu 1/30 | Linear Time-Invariant Systems                                      |                       |                                            |
+| Th 1/25 | [System Basics](lectures/L02-SystemBasics.pdf)<br>[Karplus-Strong.ipynb](examples/Karplus-Strong.ipynb) | [Karplus-Strong Wikipedia](https://en.wikipedia.org/wiki/Karplus%E2%80%93Strong_string_synthesis)   | [HW 1](homeworks/hw1.pdf), Due Th 2/8<br>[woodchuck.wav](homeworks/woodchuck.wav) |
+| Tu 1/30 | [Linear Time-Invariant Systems](lectures/L03-LTISystems.pdf)       |                       |                                            |
 | Th 2/1  | LTI Systems, cont.                                                 |                       |                                            |
 | Tu 2/6  | Complex-Valued Signals                                             |                       |                                            |
-| Th 2/8  | Fourier Series                                                     |                       |                                            |
+| Th 2/8  | Fourier Series                                                     |                       | **HW 1 Due**                               |
 | Tu 2/13 | The Discrete Fourier Transform                                     |                       |                                            |
 | Th 2/15 | The DFT and Convolution                                            |                       |                                            |
 | Tu 2/20 | The Fast Fourier Transform and the Short-Time Fourier Transform    |                       |                                            |
