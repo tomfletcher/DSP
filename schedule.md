@@ -11,10 +11,10 @@ Download this: [Guide to Math Notation in Jupyter](examples/MathNotationGuide.ip
 | Tu 1/30 | [Linear Time-Invariant Systems](lectures/L03-LTISystems.pdf)<br>[Getting Started with Signals in Python](examples/SignalsInPython.ipynb) |                       |                                            |
 | Th 2/1  | [Complex-Valued Signals](lectures/L04-ComplexSignals.pdf)<br>[ComplexSignals.ipynb](examples/ComplexSignals.ipynb) |                       |                                            |
 | Tu 2/6  | [Fourier Series](lectures/L05-FourierSeries.pdf)<br>[BassesAndBassoons.ipynb](examples/BassesAndBassoons.ipynb)<br>[bass audio](examples/double-bass_A1_1_forte_arco-normal.wav)<br>[bassoon audio](examples/bassoon_A2_1_forte_normal.wav) |  |  |
-| Th 2/8  | Fourier Series                                                     |                       | **HW 1 Due**                               |
-| Tu 2/13 | The Discrete Fourier Transform                                     |                       |                                            |
-| Th 2/15 | The DFT and Convolution<br>**Quiz 1: L01 - L04**                   |                       |                                            |
-| Tu 2/20 | The Fast Fourier Transform and the Short-Time Fourier Transform    |                       |                                            |
+| Th 2/8  | [The Discrete Fourier Transform](lectures/L06-DiscreteFourierTransform.pdf)  |             | **HW 1 Due**                               |
+| Tu 2/13 | The DFT and Convolution                                            |                       |                                            |
+| Th 2/15 | The Fast Fourier Transform<br>**Quiz 1: L01 - L04**                |                       |                                            |
+| Tu 2/20 | The Short-Time Fourier Transform                                   |                       |                                            |
 | Th 2/22 | More STFT                                                          |                       |                                            |
 | Tu 2/27 | Instantaneous Frequency                                            |                       |                                            |
 | Th 2/29 | Instantaneous Frequency, cont.                                     |                       |                                            |
