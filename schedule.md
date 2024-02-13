@@ -12,7 +12,7 @@ Download this: [Guide to Math Notation in Jupyter](examples/MathNotationGuide.ip
 | Th 2/1  | [Complex-Valued Signals](lectures/L04-ComplexSignals.pdf)<br>[ComplexSignals.ipynb](examples/ComplexSignals.ipynb) |                       |                                            |
 | Tu 2/6  | [Fourier Series](lectures/L05-FourierSeries.pdf)<br>[BassesAndBassoons.ipynb](examples/BassesAndBassoons.ipynb)<br>[bass audio](examples/double-bass_A1_1_forte_arco-normal.wav)<br>[bassoon audio](examples/bassoon_A2_1_forte_normal.wav) |  |  |
 | Th 2/8  | [The Discrete Fourier Transform](lectures/L06-DiscreteFourierTransform.pdf)  |             | **HW 1 Due**                               |
-| Tu 2/13 | The DFT and Convolution                                            |                       |                                            |
+| Tu 2/13 | [The DFT and Convolution](lectures/L07-DFTConvolution.pdf)         |                       |                                            |
 | Th 2/15 | The Fast Fourier Transform<br>**Quiz 1: L01 - L04**                |                       |                                            |
 | Tu 2/20 | The Short-Time Fourier Transform                                   |                       |                                            |
 | Th 2/22 | More STFT                                                          |                       |                                            |
