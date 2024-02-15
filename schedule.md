@@ -13,11 +13,11 @@ Download this: [Guide to Math Notation in Jupyter](examples/MathNotationGuide.ip
 | Tu 2/6  | [Fourier Series](lectures/L05-FourierSeries.pdf)<br>[BassesAndBassoons.ipynb](examples/BassesAndBassoons.ipynb)<br>[bass audio](examples/double-bass_A1_1_forte_arco-normal.wav)<br>[bassoon audio](examples/bassoon_A2_1_forte_normal.wav) |  |  |
 | Th 2/8  | [The Discrete Fourier Transform](lectures/L06-DiscreteFourierTransform.pdf)  |             | **HW 1 Due**                               |
 | Tu 2/13 | [The DFT and Convolution](lectures/L07-DFTConvolution.pdf)         |                       |                                            |
-| Th 2/15 | The Fast Fourier Transform<br>**Quiz 1: L01 - L04**                |                       |                                            |
+| Th 2/15 | [The Fast Fourier Transform](lectures/L08-FFT_STFT.pdf)<br>**Quiz 1: L01 - L04** |         | [HW 2](homeworks/hw2.pdf), Due Th 2/29     |
 | Tu 2/20 | The Short-Time Fourier Transform                                   |                       |                                            |
 | Th 2/22 | More STFT                                                          |                       |                                            |
 | Tu 2/27 | Instantaneous Frequency                                            |                       |                                            |
-| Th 2/29 | Instantaneous Frequency, cont.                                     |                       |                                            |
+| Th 2/29 | Instantaneous Frequency, cont.                                     |                       | **HW 2 Due**                               |
 | Tu 3/5  | *Spring Break -- no class* | | |
 | Th 3/7  | *Spring Break -- no class* | | |
 | Tu 3/12 | z-Transform                                                        |                       |                                            |
