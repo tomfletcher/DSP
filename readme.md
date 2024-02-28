@@ -30,7 +30,7 @@ their specific interests.
 * **TA:** Oishee Hoque
   - Office Hours: Tuesdays, 12:30 - 1:30pm in Rice 303
 * **TA:** Tonmoy Hossain
-  - Office Hours: Mondays, 10 - 11am in Rice 303
+  - Office Hours: Mondays, 12 - 1pm in Rice 303
 * **TA:** Qianhong Zhao
   - Office Hours: Thursdays, 9:40 - 10:40am in Thornton C311
 
