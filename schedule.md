@@ -17,22 +17,22 @@ Download this: [Guide to Math Notation in Jupyter](examples/MathNotationGuide.ip
 | Tu 2/20 | [Instantaneous Frequency](lectures/L09-InstantaneousFrequency.pdf) |                       |                                            |
 | Th 2/22 | [z-Transform](lectures/L10-zTransform.pdf)<br>[NaiveFrequencyScaling.ipynb](examples/NaiveFrequencyScaling.ipynb)  |                       |                                            |
 | Tu 2/27 | z-Transform                                                        |                       |                                            |
-| Th 2/29 | More z-Transform                                                   |                       | **HW 2 Due**                               |
+| Th 2/29 | [More z-Transform](lectures/L11-zTransform2.pdf)                   |                       | **HW 2 Due**                               |
 | Tu 3/5  | *Spring Break -- no class* | | |
 | Th 3/7  | *Spring Break -- no class* | | |
-| Tu 3/12 | Poles and Zeros                                                        |                       |                                            |
-| Th 3/14 | Frequency Response of an LTI System                                                   |                       |                                            |
-| Tu 3/19 | Phase and Group Delay                                                    |                       |                                            |
-| Th 3/21 | All-Pass and Minimum-Phase Systems                                |                       |                                            |
+| Tu 3/12 | Poles and Zeros                                                    |                       |                                            |
+| Th 3/14 | Frequency Response of an LTI System<br>**Quiz 2: L05 - L09**       |                       |                                            |
+| Tu 3/19 | Phase and Group Delay                                              |                       |                                            |
+| Th 3/21 | All-Pass and Minimum-Phase Systems                                 |                       |                                            |
 | Tu 3/26 | Sampling and Aliasing                                              |                       |                                            |
-| Th 3/28 | Interpolation and the Sampling Theorem                                 |                       |                                            |
-| Tu 4/2  | Filter Design Basics                                              |                       |                                            |
-| Th 4/4  | More Filter Design                             |                       |                                            |
-| Tu 4/9  | Introduction to Neural Networks                                               |                       |                                            |
-| Th 4/11 | Recurrent Neural Networks                                                 |                       |                                            |
+| Th 3/28 | Interpolation and the Sampling Theorem                             |                       |                                            |
+| Tu 4/2  | Filter Design Basics                                               |                       |                                            |
+| Th 4/4  | More Filter Design                                                 |                       |                                            |
+| Tu 4/9  | Introduction to Neural Networks                                    |                       |                                            |
+| Th 4/11 | Recurrent Neural Networks                                          |                       |                                            |
 | Tu 4/16 | Long Short Term Memory Networks                                    |                       |                                            |
-| Th 4/18 |                                           |                       |                                            |
-| Tu 4/23 |                                     |                       |                                            |
+| Th 4/18 |                                                                    |                       |                                            |
+| Tu 4/23 |                                                                    |                       |                                            |
 | Th 4/25 |                                                                    |                       |                                            |
 | Tu 4/30 |                                                                    |                       |                                            |
 | Th 5/2  | **Final Exam: 9 AM - 12 noon**                                     |                       |                                            |
