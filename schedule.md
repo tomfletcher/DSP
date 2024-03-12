@@ -20,7 +20,7 @@ Download this: [Guide to Math Notation in Jupyter](examples/MathNotationGuide.ip
 | Th 2/29 | [More z-Transform](lectures/L11-zTransform2.pdf)                   |                       | **HW 2 Due**                               |
 | Tu 3/5  | *Spring Break -- no class* | | |
 | Th 3/7  | *Spring Break -- no class* | | |
-| Tu 3/12 | Poles and Zeros                                                    |                       |                                            |
+| Tu 3/12 | [Poles and Zeros](lectures/L12-PolesAndZeros.pdf)                  |                       |                                            |
 | Th 3/14 | Frequency Response of an LTI System<br>**Quiz 2: L05 - L09**       |                       |                                            |
 | Tu 3/19 | Phase and Group Delay                                              |                       |                                            |
 | Th 3/21 | All-Pass and Minimum-Phase Systems                                 |                       |                                            |
