@@ -21,7 +21,7 @@ Download this: [Guide to Math Notation in Jupyter](examples/MathNotationGuide.ip
 | Tu 3/5  | *Spring Break -- no class* | | |
 | Th 3/7  | *Spring Break -- no class* | | |
 | Tu 3/12 | [Poles and Zeros](lectures/L12-PolesAndZeros.pdf)                  |                       |                                            |
-| Th 3/14 | Frequency Response of an LTI System<br>**Quiz 2: L05 - L09**       |                       |                                            |
+| Th 3/14 | Frequency Response of an LTI System<br>**Quiz 2: L06 - L07**       |                       |                                            |
 | Tu 3/19 | Phase and Group Delay                                              |                       |                                            |
 | Th 3/21 | All-Pass and Minimum-Phase Systems                                 |                       |                                            |
 | Tu 3/26 | Sampling and Aliasing                                              |                       |                                            |
