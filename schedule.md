@@ -21,17 +21,17 @@ Download this: [Guide to Math Notation in Jupyter](examples/MathNotationGuide.ip
 | Tu 3/5  | *Spring Break -- no class* | | |
 | Th 3/7  | *Spring Break -- no class* | | |
 | Tu 3/12 | [Poles and Zeros](lectures/L12-PolesAndZeros.pdf)                  |                       |                                            |
-| Th 3/14 | Frequency Response of an LTI System<br>**Quiz 2: L06 - L07**       |                       |                                            |
-| Tu 3/19 | Phase and Group Delay                                              |                       |                                            |
-| Th 3/21 | All-Pass and Minimum-Phase Systems                                 |                       |                                            |
-| Tu 3/26 | Sampling and Aliasing                                              |                       |                                            |
-| Th 3/28 | Interpolation and the Sampling Theorem                             |                       |                                            |
-| Tu 4/2  | Filter Design Basics                                               |                       |                                            |
-| Th 4/4  | More Filter Design                                                 |                       |                                            |
-| Tu 4/9  | Introduction to Neural Networks                                    |                       |                                            |
-| Th 4/11 | Recurrent Neural Networks                                          |                       |                                            |
-| Tu 4/16 | Long Short Term Memory Networks                                    |                       |                                            |
-| Th 4/18 |                                                                    |                       |                                            |
+| Th 3/14 | Poles and Zeros, cont.<br>**Quiz 2: L06 - L07**                    |                       |                                            |
+| Tu 3/19 | Frequency Response of an LTI System                                |                       |                                            |
+| Th 3/21 | Phase and Group Delay                                              |                       |                                            |
+| Tu 3/26 | All-Pass and Minimum-Phase Systems                                 |                       |                                            |
+| Th 3/28 | Sampling and Aliasing                                              |                       |                                            |
+| Tu 4/2  | Interpolation and the Sampling Theorem                             |                       |                                            |
+| Th 4/4  | Filter Design Basics                                               |                       |                                            |
+| Tu 4/9  | More Filter Design                                                 |                       |                                            |
+| Th 4/11 | Introduction to Neural Networks                                    |                       |                                            |
+| Tu 4/16 | Recurrent Neural Networks                                          |                       |                                            |
+| Th 4/18 | Long Short Term Memory Networks                                    |                       |                                            |
 | Tu 4/23 |                                                                    |                       |                                            |
 | Th 4/25 |                                                                    |                       |                                            |
 | Tu 4/30 |                                                                    |                       |                                            |
