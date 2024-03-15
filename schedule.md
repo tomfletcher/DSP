@@ -20,13 +20,13 @@ Download this: [Guide to Math Notation in Jupyter](examples/MathNotationGuide.ip
 | Th 2/29 | [More z-Transform](lectures/L11-zTransform2.pdf)                   |                       | **HW 2 Due**                               |
 | Tu 3/5  | *Spring Break -- no class* | | |
 | Th 3/7  | *Spring Break -- no class* | | |
-| Tu 3/12 | [Poles and Zeros](lectures/L12-PolesAndZeros.pdf)                  |                       |                                            |
+| Tu 3/12 | [Poles and Zeros](lectures/L12-PolesAndZeros.pdf)                  |                       | [HW 3](homeworks/hw3.pdf), Due Tu 4/2      |
 | Th 3/14 | Poles and Zeros, cont.<br>**Quiz 2: L06 - L07**                    |                       |                                            |
 | Tu 3/19 | Frequency Response of an LTI System                                |                       |                                            |
 | Th 3/21 | Phase and Group Delay                                              |                       |                                            |
 | Tu 3/26 | All-Pass and Minimum-Phase Systems                                 |                       |                                            |
 | Th 3/28 | Sampling and Aliasing                                              |                       |                                            |
-| Tu 4/2  | Interpolation and the Sampling Theorem                             |                       |                                            |
+| Tu 4/2  | Interpolation and the Sampling Theorem                             |                       | **HW 3 Due**                               |
 | Th 4/4  | Filter Design Basics                                               |                       |                                            |
 | Tu 4/9  | More Filter Design                                                 |                       |                                            |
 | Th 4/11 | Introduction to Neural Networks                                    |                       |                                            |
