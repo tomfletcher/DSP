@@ -25,7 +25,7 @@ Download this: [Guide to Math Notation in Jupyter](examples/MathNotationGuide.ip
 | Tu 3/19 | [Frequency Response of an LTI System](lectures/L13-FrequencyResponse.pdf) |                |                                            |
 | Th 3/21 | [Phase and Group Delay](lectures/L14-PhaseAndGroupDelay.pdf)       |                       |                                            |
 | Tu 3/26 | [All-Pass and Minimum-Phase Systems](lectures/L15-AllPassAndMinimumPhase.pdf) |            |                                            |
-| Th 3/28 | Sampling and Aliasing                                              |                       |                                            |
+| Th 3/28 | [Sampling and Aliasing](lectures/L16-SamplingAndAliasing.pdf)      |                       |                                            |
 | Tu 4/2  | Interpolation and the Sampling Theorem                             |                       | **HW 3 Due**                               |
 | Th 4/4  | Filter Design Basics                                               |                       |                                            |
 | Tu 4/9  | More Filter Design                                                 |                       |                                            |
