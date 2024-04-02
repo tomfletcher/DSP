@@ -28,7 +28,7 @@ Download this: [Guide to Math Notation in Jupyter](examples/MathNotationGuide.ip
 | Th 3/28 | [Sampling and Aliasing](lectures/L16-SamplingAndAliasing.pdf)      |                       |                                            |
 | Tu 4/2  | [Interpolation and the Sampling Theorem](lectures/L17-InterpolationAndSamplingTheorem.pdf) | | **HW 3 Due**                             |
 | Th 4/4  | Filter Design Basics                                               |                       |                                            |
-| Tu 4/9  | More Filter Design                                                 |                       |                                            |
+| Tu 4/9  | More Filter Design<br>**Quiz 3: L10 - L13**                        |                       |                                            |
 | Th 4/11 | Introduction to Neural Networks                                    |                       |                                            |
 | Tu 4/16 | Recurrent Neural Networks                                          |                       |                                            |
 | Th 4/18 | Long Short Term Memory Networks                                    |                       |                                            |
