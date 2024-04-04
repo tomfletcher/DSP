@@ -27,10 +27,10 @@ Download this: [Guide to Math Notation in Jupyter](examples/MathNotationGuide.ip
 | Tu 3/26 | [All-Pass and Minimum-Phase Systems](lectures/L15-AllPassAndMinimumPhase.pdf) |            |                                            |
 | Th 3/28 | [Sampling and Aliasing](lectures/L16-SamplingAndAliasing.pdf)      |                       |                                            |
 | Tu 4/2  | [Interpolation and the Sampling Theorem](lectures/L17-InterpolationAndSamplingTheorem.pdf) | | **HW 3 Due**                             |
-| Th 4/4  | Filter Design Basics                                               |                       |                                            |
+| Th 4/4  | [Filter Design Basics](lectures/L18-FilterDesignBasics.pdf)        |                       | [HW 4](homeworks/hw4.pdf), Due Tu 4/16     |
 | Tu 4/9  | More Filter Design<br>**Quiz 3: L10 - L13**                        |                       |                                            |
 | Th 4/11 | Introduction to Neural Networks                                    |                       |                                            |
-| Tu 4/16 | Recurrent Neural Networks                                          |                       |                                            |
+| Tu 4/16 | Recurrent Neural Networks                                          |                       | **HW 4 Due**                               |
 | Th 4/18 | Long Short Term Memory Networks                                    |                       |                                            |
 | Tu 4/23 |                                                                    |                       |                                            |
 | Th 4/25 |                                                                    |                       |                                            |
