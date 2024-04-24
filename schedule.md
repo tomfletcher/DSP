@@ -30,9 +30,9 @@ Download this: [Guide to Math Notation in Jupyter](examples/MathNotationGuide.ip
 | Th 4/4  | Interpolation, cont.                                               |                       | [HW 4](homeworks/hw4.pdf), Due Tu 4/16     |
 | Tu 4/9  | [Filter Design Basics](lectures/L18-FilterDesignBasics.pdf)<br>**Quiz 3: L10 - L13** |     |                                            |
 | Th 4/11 | [More Filter Design](lectures/L19-MoreFilterDesign.pdf)<br>[WindowFunctions.ipynb](examples/WindowFunctions.ipynb) | [Wikipedia: Window Functions](https://en.wikipedia.org/wiki/Window_function) |                                            |
-| Tu 4/16 | Introduction to Neural Networks                                    | [Dive Into Deep Learning (book)](http://d2l.ai/) | [HW 5 (more to come!)](homeworks/hw5.pdf), Due Tu 4/30<br>[cho_weather.csv](homeworks/cho_weather.csv)<br>[RNNStarter.ipynb](homeworks/RNNStarter.ipynb)**HW 4 Due** |
+| Tu 4/16 | Introduction to Neural Networks                                    | [Dive Into Deep Learning (book)](http://d2l.ai/) | [HW 5](homeworks/hw5.pdf), Due Tu 4/30<br>[cho_weather.csv](homeworks/cho_weather.csv)<br>[RNNStarter.ipynb](homeworks/RNNStarter.ipynb)<br>**HW 4 Due** |
 | Th 4/18 | Recurrent Neural Networks                                          |                       |                                            |
 | Tu 4/23 | Long Short Term Memory Networks                                    | [LSTM blog](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)<br>[LSTM Wikipedia](https://en.wikipedia.org/wiki/Long_short-term_memory) |                                            |
 | Th 4/25 | Transformers<br>**Quiz 4: L15 - L19**                              |                       |                                            |
-| Tu 4/30 | Exam Review                                                        |                       |                                            |
+| Tu 4/30 | Exam Review                                                        |                       | **HW 5 Due**                               |
 | Th 5/2  | **Final Exam: 9 AM - 12 noon**                                     |                       |                                            |
