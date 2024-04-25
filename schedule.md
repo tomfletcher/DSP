@@ -33,6 +33,6 @@ Download this: [Guide to Math Notation in Jupyter](examples/MathNotationGuide.ip
 | Tu 4/16 | Introduction to Neural Networks                                    | [Dive Into Deep Learning (book)](http://d2l.ai/) | [HW 5](homeworks/hw5.pdf), Due Tu 4/30<br>[cho_weather.csv](homeworks/cho_weather.csv)<br>[RNNStarter.ipynb](homeworks/RNNStarter.ipynb)<br>**HW 4 Due** |
 | Th 4/18 | Recurrent Neural Networks                                          |                       |                                            |
 | Tu 4/23 | Long Short Term Memory Networks                                    | [LSTM blog](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)<br>[LSTM Wikipedia](https://en.wikipedia.org/wiki/Long_short-term_memory) |                                            |
-| Th 4/25 | Transformers<br>**Quiz 4: L15 - L19**                              |                       |                                            |
+| Th 4/25 | Transformers<br>**Quiz 4: L15 - L19**                              | [Vaswani, et al., 2017 (Original Transformer paper)](https://arxiv.org/pdf/1706.03762)<br>[3blue1brown video on attention](https://www.youtube.com/watch?v=eMlx5fFNoYc)                      |                                            |
 | Tu 4/30 | Exam Review                                                        |                       | **HW 5 Due**                               |
 | Th 5/2  | **Final Exam: 9 AM - 12 noon**                                     |                       |                                            |
