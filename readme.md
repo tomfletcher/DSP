@@ -25,14 +25,10 @@ their specific interests.
 * **Location:** Thornton E316 and online via Zoom
 * **Instructor:** Tom Fletcher (ptf8v *AT* virginia *DOT* edu)
   - Office Hours: Wednesdays, 3 - 4pm in Rice 306
+* **TA:** Ferial Delavari
+  - Office Hours: TBA
 * **TA:** Kidus Fasil
-  - Office Hours: Tuesdays, 1:30 - 2:30pm in Rice 303
-* **TA:** Oishee Hoque
-  - Office Hours: Tuesdays, 12:30 - 1:30pm in Rice 303
-* **TA:** Tonmoy Hossain
-  - Office Hours: Mondays, 12 - 1pm in Rice 303
-* **TA:** Qianhong Zhao
-  - Office Hours: Thursdays, 9:40 - 10:40am in Thornton C311
+  - Office Hours: TBA
 
 * **Textbook:** None required
 * **Software:** All homeworks will be done in [Jupyter](https://jupyter.org)
