@@ -6,7 +6,7 @@ Download this: [Guide to Math Notation in Jupyter](examples/MathNotationGuide.ip
 | Day     | Title / Notes                                                      | Reading               | Homework                                   |
 |---------|--------------------------------------------------------------------|-----------------------|--------------------------------------------|
 | Tu 1/14 | [Introduction](lectures/L00-Introduction.pdf)                      |                       |                                            |
-| Th 1/16 | Signal Basics                     |                       |                                            |
+| Th 1/16 | [Signal Basics](lectures/L01-SignalBasics.pdf))                    |                       |                                            |
 | Tu 1/21 | System Basics | |  |
 | Th 1/23 | Linear Time-Invariant Systems |  |      |
 | Tu 1/28 | Complex-Valued Signals |                       |                                            |
