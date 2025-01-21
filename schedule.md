@@ -8,7 +8,7 @@ Download this: [Guide to Math Notation in Jupyter](examples/MathNotationGuide.ip
 | Tu 1/14 | [Introduction](lectures/L00-Introduction.pdf)                      |                       |                                            |
 | Th 1/16 | [Signal Basics](lectures/L01-SignalBasics.pdf)                     |                       |                                            |
 | Tu 1/21 |  [System Basics](lectures/L02-SystemBasics.pdf)<br>[Karplus-Strong.ipynb](examples/Karplus-Strong.ipynb) | [Karplus-Strong Wikipedia](https://en.wikipedia.org/wiki/Karplus%E2%80%93Strong_string_synthesis)   | [HW 1](homeworks/hw1.pdf), Due Tu 2/4<br>[woodchuck.wav](homeworks/woodchuck.wav)<br>[HW 1 Starter Notebook](homeworks/HW1-Starter.ipynb) |
-| Th 1/23 | Linear Time-Invariant Systems |  |      |
+| Th 1/23 | [Linear Time-Invariant Systems](lectures/L03-LTISystems.pdf) |  |      |
 | Tu 1/28 | Complex-Valued Signals |                       |                                            |
 | Th 1/30 | Fourier Series |  |  |
 | Tu 2/4  | The Discrete Fourier Transform |             | **HW 1 Due** |
