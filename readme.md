@@ -26,11 +26,11 @@ their specific interests.
 * **Instructor:** Tom Fletcher (ptf8v *AT* virginia *DOT* edu)
   - Office Hours: Wednesdays, 3 - 4pm in Rice 306
 * **TA:** Ferial Delavari
-  - Office Hours: Thursdays, 1 - 2pm in Rice 204
+  - Office Hours: Thursdays, 1 - 2pm in Olsson 105
 * **TA:** Kidus Fasil
-  - Office Hours: Mondays, 1 - 2pm in Rice 204
+  - Office Hours: Mondays, 1 - 2pm in Olsson 105
 * **TA:** Spencer Hernandez
-  - Office Hours: Tuesdays, 2 - 3pm in Rice 204
+  - Office Hours: Tuesdays, 2 - 3pm in TBD
 
 * **Textbook:** None required
 * **Software:** All homeworks will be done in [Jupyter](https://jupyter.org)
