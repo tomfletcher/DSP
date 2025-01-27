@@ -30,7 +30,7 @@ their specific interests.
 * **TA:** Kidus Fasil
   - Office Hours: Mondays, 1 - 2pm in Olsson 105
 * **TA:** Spencer Hernandez
-  - Office Hours: Tuesdays, 2 - 3pm in TBD
+  - Office Hours: Tuesdays, 2 - 3pm in Olsson 104
 
 * **Textbook:** None required
 * **Software:** All homeworks will be done in [Jupyter](https://jupyter.org)
