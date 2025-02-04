@@ -11,11 +11,11 @@ Download this: [Guide to Math Notation in Jupyter](examples/MathNotationGuide.ip
 | Th 1/23 | [Linear Time-Invariant Systems](lectures/L03-LTISystems.pdf) |  |      |
 | Tu 1/28 | [Complex-Valued Signals](lectures/L04-ComplexSignals.pdf)<br>[ComplexSignals.ipynb](examples/ComplexSignals.ipynb) | |                  |
 | Th 1/30 | [Fourier Series](lectures/L05-FourierSeries.pdf)<br>[BassesAndBassoons.ipynb](examples/BassesAndBassoons.ipynb)<br>[bass audio](examples/double-bass_A1_1_forte_arco-normal.wav)<br>[bassoon audio](examples/bassoon_A2_1_forte_normal.wav) |  |  |
-| Tu 2/4  | The Discrete Fourier Transform |             | **HW 1 Due** |
+| Tu 2/4  | [The Discrete Fourier Transform](lectures/L06-DiscreteFourierTransform.pdf) | | **HW 1 Due**<br>[HW 2](homeworks/hw2.pdf), Due Tu 2/18<br>[winniethepooh.wav](homeworks/winniethepooh.wav)<br>[bach.wav](homeworks/bach.wav)<br>[HW 2 Starter Notebook](homeworks/HW2-Starter.ipynb) |
 | Th 2/6  | The DFT and Convolution       |                       |                                            |
 | Tu 2/11 | The Fast Fourier Transform<br>**Quiz 1: L01 - L04** |         |  |
 | Th 2/13 | Instantaneous Frequency |                       |                                            |
-| Tu 2/18 | z-Transform |                       |                                            |
+| Tu 2/18 | z-Transform |                       | **HW 2 Due** |
 | Th 2/20 | z-Transform, cont.                    |                       |                                            |
 | Tu 2/25 | More z-Transform |                       |                                |
 | Th 2/27 | Poles and Zeros | | |
