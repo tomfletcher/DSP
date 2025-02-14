@@ -14,7 +14,7 @@ Download this: [Guide to Math Notation in Jupyter](examples/MathNotationGuide.ip
 | Tu 2/4  | [The Discrete Fourier Transform](lectures/L06-DiscreteFourierTransform.pdf) | | **HW 1 Due**<br>[HW 2](homeworks/hw2.pdf), Due Tu 2/18<br>[winniethepooh.wav](homeworks/winniethepooh.wav)<br>[bach.wav](homeworks/bach.wav)<br>[HW 2 Starter Notebook](homeworks/HW2-Starter.ipynb) |
 | Th 2/6  | [The DFT and Convolution](lectures/L07-DFTConvolution.pdf)         |                       |                                            |
 | Tu 2/11 | **Snow Day!** |         |  |
-| Th 2/13 | [The Fast Fourier Transform](lectures/L08-FFT.pdf)<br>**Quiz 1: L01 - L04** |                       |                                            |
+| Th 2/13 | [The Fast Fourier Transform](lectures/L08-FFT_STFT.pdf)<br>**Quiz 1: L01 - L04** |                       |                                            |
 | Tu 2/18 | Instantaneous Frequency |   | **HW 2 Due** |
 | Th 2/20 | z-Transform                  |                       |                                            |
 | Tu 2/25 | More z-Transform |                       |                                |
