@@ -15,7 +15,7 @@ Download this: [Guide to Math Notation in Jupyter](examples/MathNotationGuide.ip
 | Th 2/6  | [The DFT and Convolution](lectures/L07-DFTConvolution.pdf)         |                       |                                            |
 | Tu 2/11 | **Snow Day!** |         |  |
 | Th 2/13 | [The Fast Fourier Transform](lectures/L08-FFT_STFT.pdf)<br>**Quiz 1: L01 - L04** |                       |                                            |
-| Tu 2/18 | Instantaneous Frequency |   | **HW 2 Due** |
+| Tu 2/18 | [Instantaneous Frequency](lectures/L09-InstantaneousFrequency.pdf) |   | **HW 2 Due** |
 | Th 2/20 | z-Transform                  |                       |                                            |
 | Tu 2/25 | More z-Transform |                       |                                |
 | Th 2/27 | Poles and Zeros | | |
