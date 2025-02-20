@@ -16,11 +16,11 @@ Download this: [Guide to Math Notation in Jupyter](examples/MathNotationGuide.ip
 | Tu 2/11 | **Snow Day!** |         |  |
 | Th 2/13 | [The Fast Fourier Transform](lectures/L08-FFT_STFT.pdf)<br>**Quiz 1: L01 - L04** |                       |                                            |
 | Tu 2/18 | [Instantaneous Frequency](lectures/L09-InstantaneousFrequency.pdf) |   | **HW 2 Due** |
-| Th 2/20 | z-Transform                  |                       |                                            |
-| Tu 2/25 | More z-Transform |                       |                                |
+| Th 2/20 | Instantaneous Frequency, cont. |                       | [HW 3](homeworks/hw3.pdf), Due Fri 3/7 |
+| Tu 2/25 | z-Transform |                       |                                |
 | Th 2/27 | Poles and Zeros | | |
 | Tu 3/4  | Poles and Zeros, cont. | | |
-| Th 3/6  | Frequency Response of an LTI System                  |                       |                                            |
+| Th 3/6  | Frequency Response of an LTI System                  |  | **HW 3 Due, Fri 3/7** |
 | Tu 3/11 | *Spring Break -- no class*                   |                       |  |
 | Th 3/13 | *Spring Break -- no class*  | |
 | Tu 3/18 | Phase and Group Delay |                       |                                            |
