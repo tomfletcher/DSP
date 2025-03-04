@@ -24,7 +24,7 @@ Download this: [Guide to Math Notation in Jupyter](examples/MathNotationGuide.ip
 | Tu 3/11 | *Spring Break -- no class*                   |                       |  |
 | Th 3/13 | *Spring Break -- no class*  | |
 | Tu 3/18 | Phase and Group Delay |                       |                                            |
-| Th 3/20 | All-Pass and Minimum-Phase Systems |            |                                            |
+| Th 3/20 | All-Pass and Minimum-Phase Systems<br>**Quiz 2** |            |                                            |
 | Tu 3/25 | Sampling and Aliasing      |                       |                                            |
 | Th 3/27 | Interpolation and the Sampling Theorem | |                              |
 | Tu 4/1  | Interpolation, cont.  |                       |    |
