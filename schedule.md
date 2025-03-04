@@ -19,7 +19,7 @@ Download this: [Guide to Math Notation in Jupyter](examples/MathNotationGuide.ip
 | Th 2/20 | Instantaneous Frequency, cont. |                       | [HW 3](homeworks/hw3.pdf), Due Fri 3/7 |
 | Tu 2/25 | **Classes Canceled** |           |                                |
 | Th 2/27 | [z-Transform](lectures/L10-zTransform.pdf) | | |
-| Tu 3/4  | Poles and Zeros | | |
+| Tu 3/4  | [More z-Transform](lectures/L11-zTransform2.pdf)<br>[Poles and Zeros](lectures/L12-PolesAndZeros.pdf) | | |
 | Th 3/6  | Frequency Response of an LTI System                  |  | **HW 3 Due, Fri 3/7** |
 | Tu 3/11 | *Spring Break -- no class*                   |                       |  |
 | Th 3/13 | *Spring Break -- no class*  | |
