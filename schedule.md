@@ -19,12 +19,12 @@ Download this: [Guide to Math Notation in Jupyter](examples/MathNotationGuide.ip
 | Th 2/20 | Instantaneous Frequency, cont. |                       | [HW 3](homeworks/hw3.pdf), Due Fri 3/7 |
 | Tu 2/25 | **Classes Canceled** |           |                                |
 | Th 2/27 | [z-Transform](lectures/L10-zTransform.pdf) | | |
-| Tu 3/4  | [More z-Transform](lectures/L11-zTransform2.pdf)<br>[Poles and Zeros](lectures/L12-PolesAndZeros.pdf) | | |
-| Th 3/6  | Frequency Response of an LTI System                  |  | **HW 3 Due, Fri 3/7** |
+| Tu 3/4  | [More z-Transform](lectures/L11-zTransform2.pdf) | | |
+| Th 3/6  | [Poles and Zeros](lectures/L12-PolesAndZeros.pdf) | | **HW 3 Due, Fri 3/7** |
 | Tu 3/11 | *Spring Break -- no class*                   |                       |  |
 | Th 3/13 | *Spring Break -- no class*  | |
-| Tu 3/18 | Phase and Group Delay |                       |                                            |
-| Th 3/20 | All-Pass and Minimum-Phase Systems<br>**Quiz 2** |            |                                            |
+| Tu 3/18 | [Frequency Response of an LTI System](lectures/L13-FrequencyResponse.pdf)<br>Phase and Group Delay | | |
+| Th 3/20 | All-Pass and Minimum-Phase Systems<br>**Quiz 2: L06 - L09**<br>**(you should also review L04-L05)** | | |
 | Tu 3/25 | Sampling and Aliasing      |                       |                                            |
 | Th 3/27 | Interpolation and the Sampling Theorem | |                              |
 | Tu 4/1  | Interpolation, cont.  |                       |    |
