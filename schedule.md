@@ -23,7 +23,7 @@ Download this: [Guide to Math Notation in Jupyter](examples/MathNotationGuide.ip
 | Th 3/6  | [Poles and Zeros](lectures/L12-PolesAndZeros.pdf) | | **HW 3 Due, Fri 3/7** |
 | Tu 3/11 | *Spring Break -- no class*                   |                       |  |
 | Th 3/13 | *Spring Break -- no class*  | |
-| Tu 3/18 | [Frequency Response of an LTI System](lectures/L13-FrequencyResponse.pdf)<br>Phase and Group Delay | | |
+| Tu 3/18 | [Frequency Response of an LTI System](lectures/L13-FrequencyResponse.pdf)<br>Phase and Group Delay | | [HW 4](homeworks/hw4.pdf), Due Th 3/27 |
 | Th 3/20 | All-Pass and Minimum-Phase Systems<br>**Quiz 2: L06 - L09**<br>**(you should also review L04-L05)** | | |
 | Tu 3/25 | Sampling and Aliasing      |                       |                                            |
 | Th 3/27 | Interpolation and the Sampling Theorem | |                              |
