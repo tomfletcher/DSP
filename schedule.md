@@ -23,17 +23,17 @@ Download this: [Guide to Math Notation in Jupyter](examples/MathNotationGuide.ip
 | Th 3/6  | [Poles and Zeros](lectures/L12-PolesAndZeros.pdf) | | **HW 3 Due, Fri 3/7** |
 | Tu 3/11 | *Spring Break -- no class*                   |                       |  |
 | Th 3/13 | *Spring Break -- no class*  | |
-| Tu 3/18 | [Frequency Response of an LTI System](lectures/L13-FrequencyResponse.pdf)<br>Phase and Group Delay | | [HW 4](homeworks/hw4.pdf), Due Th 3/27 |
-| Th 3/20 | All-Pass and Minimum-Phase Systems<br>**Quiz 2: L06 - L09**<br>**(you should also review L04-L05)** | | |
-| Tu 3/25 | Sampling and Aliasing      |                       |                                            |
-| Th 3/27 | Interpolation and the Sampling Theorem | |                              |
-| Tu 4/1  | Interpolation, cont.  |                       |    |
-| Th 4/3  | Filter Design Basics |     |                                            |
-| Tu 4/8  | More Filter Design |  |     |
+| Tu 3/18 | [Frequency Response of an LTI System](lectures/L13-FrequencyResponse.pdf) | | [HW 4](homeworks/hw4.pdf), Due Th 3/27 |
+| Th 3/20 | Frequency Response, cont.<br>**Quiz 2: L06 - L09**<br>**(you should also review L04-L05)** | | |
+| Tu 3/25 | [Phase and Group Delay](lectures/L14-PhaseAndGroupDelay.pdf) | | |
+| Th 3/27 | All-Pass and Minimum-Phase Systems | | **HW 4 Due** |
+| Tu 4/1  | Filter Design Basics | | |
+| Th 4/3  | More Filter Design |     |                                            |
+| Tu 4/8  | Sampling, Interpolation, and Aliasing |  |     |
 | Th 4/10 | Introduction to Neural Networks                                    |  | |
 | Tu 4/15 | Recurrent Neural Networks                                          |                       |                                            |
 | Th 4/17 | Long Short Term Memory Networks                                    |  |                                            |
 | Tu 4/22 | Transformers                             |       |                                            |
-| Tu 4/24 | Transformers, cont.                      |       |                                            |
-| Th 4/29 | Exam Review                                                        |                       |                               |
+| Th 4/24 | Transformers, cont.                      |       |                                            |
+| Tu 4/29 | Exam Review                                                        |                       |                               |
 | Fr 5/9  | **Final Exam: 9 AM - 12 noon**  |                       |                                            |
