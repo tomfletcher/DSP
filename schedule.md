@@ -29,7 +29,7 @@ Download this: [Guide to Math Notation in Jupyter](examples/MathNotationGuide.ip
 | Th 3/27 | [All-Pass and Minimum-Phase Systems](lectures/L15-AllPassAndMinimumPhase.pdf)<br>[z-transform practice](examples/zTransformProblems.pdf)<br>[(solutions)](examples/zTransformProblems-sol.pdf) | | **HW 4 Due**<br>[HW 5](homeworks/hw5.pdf), Due Tu 4/15<br>[synth.wav](homeworks/synth.wav) |
 | Tu 4/1  | [Filter Design Basics](lectures/L18-FilterDesignBasics.pdf) | | |
 | Th 4/3  | [More Filter Design](lectures/L19-MoreFilterDesign.pdf)<br>[WindowFunctions.ipynb](examples/WindowFunctions.ipynb) |     |                                            |
-| Tu 4/8  | Sampling, Interpolation, and Aliasing |  |     |
+| Tu 4/8  | [Sampling, Interpolation, and Aliasing](lectures/L16-SamplingAndAliasing.pdf) |  |     |
 | Th 4/10 | Introduction to Neural Networks<br>**Quiz 3: L10 - L14** |  | |
 | Tu 4/15 | Recurrent Neural Networks                                          |                       | **HW 5 Due** |
 | Th 4/17 | Long Short Term Memory Networks                                    |  |                                            |
