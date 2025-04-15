@@ -30,10 +30,10 @@ Download this: [Guide to Math Notation in Jupyter](examples/MathNotationGuide.ip
 | Tu 4/1  | [Filter Design Basics](lectures/L18-FilterDesignBasics.pdf) | | |
 | Th 4/3  | [More Filter Design](lectures/L19-MoreFilterDesign.pdf)<br>[WindowFunctions.ipynb](examples/WindowFunctions.ipynb) |     |                                            |
 | Tu 4/8  | [Sampling, Interpolation, and Aliasing](lectures/L16-SamplingAndAliasing.pdf) |  |     |
-| Th 4/10 | Introduction to Neural Networks<br>**Quiz 3: L10 - L14** |  | |
-| Tu 4/15 | Recurrent Neural Networks                                          |                       | **HW 5 Due** |
-| Th 4/17 | Long Short Term Memory Networks                                    |  |                                            |
-| Tu 4/22 | Transformers                             |       |                                            |
-| Th 4/24 | Transformers, cont.                      |       |                                            |
+| Th 4/10 | [The Sampling Theorem](lectures/L17-InterpolationAndSamplingTheorem.pdf)<br>**Quiz 3: L10 - L14** |  | |
+| Tu 4/15 | Introduction to Neural Networks                                          |                       | **HW 5 Due** |
+| Th 4/17 | Recurrent Neural Networks                                    |  |                                            |
+| Tu 4/22 | Long Short Term Memory Networks                             |       |                                            |
+| Th 4/24 | Transformers                      |       |                                            |
 | Tu 4/29 | Exam Review                                                        |                       |                               |
 | Fr 5/9  | **Final Exam: 9 AM - 12 noon**  |                       |                                            |
