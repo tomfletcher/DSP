@@ -31,9 +31,9 @@ Download this: [Guide to Math Notation in Jupyter](examples/MathNotationGuide.ip
 | Th 4/3  | [More Filter Design](lectures/L19-MoreFilterDesign.pdf)<br>[WindowFunctions.ipynb](examples/WindowFunctions.ipynb) |     |                                            |
 | Tu 4/8  | [Sampling, Interpolation, and Aliasing](lectures/L16-SamplingAndAliasing.pdf) |  |     |
 | Th 4/10 | [The Sampling Theorem](lectures/L17-InterpolationAndSamplingTheorem.pdf)<br>**Quiz 3: L10 - L14** |  | |
-| Tu 4/15 | Introduction to Neural Networks                                          |                       | **HW 5 Due** |
-| Th 4/17 | Recurrent Neural Networks                                    |  |                                            |
-| Tu 4/22 | Long Short Term Memory Networks                             |       |                                            |
-| Th 4/24 | Transformers                      |       |                                            |
+| Tu 4/15 | Introduction to Neural Networks  |  [Dive Into Deep Learning (book)](http://d2l.ai/)  | **HW 5 Due** |
+| Th 4/17 | Recurrent Neural Networks                                    |  | [HW 6](homeworks/hw6.pdf), Due Tu 4/30<br>[cho_weather.csv](homeworks/cho_weather.csv)<br>[RNNStarter.ipynb](homeworks/RNNStarter.ipynb)                                           |
+| Tu 4/22 | Long Short Term Memory Networks                             |  [LSTM blog](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)<br>[LSTM Wikipedia](https://en.wikipedia.org/wiki/Long_short-term_memory)      |                                            |
+| Th 4/24 | Transformers<br>**Quiz 4: L15 - L19**                      |  [Vaswani, et al., 2017 (Original Transformer paper)](https://arxiv.org/pdf/1706.03762)<br>[3blue1brown video on attention](https://www.youtube.com/watch?v=eMlx5fFNoYc)      |                                            |
 | Tu 4/29 | Exam Review                                                        |                       |                               |
 | Fr 5/9  | **Final Exam: 9 AM - 12 noon**  |                       |                                            |
