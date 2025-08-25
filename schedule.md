@@ -5,9 +5,9 @@ Download this: [Guide to Math Notation in Jupyter](examples/MathNotationGuide.ip
 
 | Day     | Title / Notes                                                      | Reading               | Homework                                   |
 |---------|--------------------------------------------------------------------|-----------------------|--------------------------------------------|
-| Tu 1/14 | [Introduction](lectures/L00-Introduction.pdf)                      |                       |                                            |
-| Th 1/16 | [Signal Basics](lectures/L01-SignalBasics.pdf)                     |                       |                                            |
-| Tu 1/21 |  [System Basics](lectures/L02-SystemBasics.pdf)<br>[Karplus-Strong.ipynb](examples/Karplus-Strong.ipynb) | [Karplus-Strong Wikipedia](https://en.wikipedia.org/wiki/Karplus%E2%80%93Strong_string_synthesis)   | [HW 1](homeworks/hw1.pdf), Due Tu 2/4<br>[woodchuck.wav](homeworks/woodchuck.wav)<br>[HW 1 Starter Notebook](homeworks/HW1-Starter.ipynb) |
+| Tu 8/26 | [Introduction](lectures/L00-Introduction.pdf)                      |                       |                                            |
+| Th 8/28 | [Signal Basics](lectures/L01-SignalBasics.pdf)                     |                       |                                            |
+| Tu 9/2  | [System Basics](lectures/L02-SystemBasics.pdf)<br>[Karplus-Strong.ipynb](examples/Karplus-Strong.ipynb) | [Karplus-Strong Wikipedia](https://en.wikipedia.org/wiki/Karplus%E2%80%93Strong_string_synthesis)   | [HW 1](homeworks/hw1.pdf), Due Tu 2/4<br>[woodchuck.wav](homeworks/woodchuck.wav)<br>[HW 1 Starter Notebook](homeworks/HW1-Starter.ipynb) |
 | Th 1/23 | [Linear Time-Invariant Systems](lectures/L03-LTISystems.pdf) |  |      |
 | Tu 1/28 | [Complex-Valued Signals](lectures/L04-ComplexSignals.pdf)<br>[ComplexSignals.ipynb](examples/ComplexSignals.ipynb) | |                  |
 | Th 1/30 | [Fourier Series](lectures/L05-FourierSeries.pdf)<br>[BassesAndBassoons.ipynb](examples/BassesAndBassoons.ipynb)<br>[bass audio](examples/double-bass_A1_1_forte_arco-normal.wav)<br>[bassoon audio](examples/bassoon_A2_1_forte_normal.wav) |  |  |

@@ -6,7 +6,7 @@
 
 **Anonymous Feedback.** Comments or suggestions are always welcome! Feel free to send them through the anonymous feedback tool in Canvas.
 
-**Grading.** The final course grade is based on the homework assignments (60%), quizzes (25%), and final exam (15%).
+**Grading.** The final course grade is based on the homework assignments (55%), quizzes (25%), and final exam (20%).
 
 Homework assignments will consist of writing Python code to solve problems as well as written questions. Submissions must be Jupyter notebooks, which lets you combine formatted text, math notation, and Python code in an easy-to-use format.
 
@@ -73,11 +73,11 @@ enhance your learning, not to "do the work for you".
 
 There must be no collaboration on quizzes.
 
-You should be familiar with the UVA [https://honor.virginia.edu/](Honor Code). If a student
+You should be familiar with the UVA [Honor Code](https://honor.virginia.edu/). If a student
 is caught cheating on a homework or exam, they will potentially receive grade penalties and be reported to the Honor Committee.
 
 **Students with disabilities or learning needs.**
-It is my goal to create a learning experience that is as accessible as possible. If you anticipate any issues related to the format, materials, or requirements of this course, please meet with me outside of class so we can explore potential options. Students with disabilities may also wish to work with the Student Disability Access Center to discuss a range of options to removing barriers in this course, including official accommodations. Please visit their website for information on this process and to apply for services online: https://www.studenthealth.virginia.edu/sdac. If you have already been approved for accommodations through SDAC, please send me your accommodation letter and meet with me so we can develop an implementation plan together.
+It is my goal to create a learning experience that is as accessible as possible. If you anticipate any issues related to the format, materials, or requirements of this course, please meet with me outside of class so we can explore potential options. Students with disabilities may also wish to work with the Student Disability Access Center to discuss a range of options to removing barriers in this course, including official accommodations. Please visit their website for information on this process and to apply for services online: [https://www.studenthealth.virginia.edu/sdac](https://www.studenthealth.virginia.edu/sdac). If you have already been approved for accommodations through SDAC, please send me your accommodation letter and meet with me so we can develop an implementation plan together.
 
 **Religious accommodations.**
 
@@ -91,40 +91,39 @@ should submit their request in writing directly to me by email as far in advance
 as possible. Students who have questions or concerns about academic
 accommodations for religious observance or religious beliefs may contact the
 University’s Office for Equal Opportunity and Civil Rights (EOCR) at
-[mailto:UVAEOCR@virginia.edu](UVAEOCR@virginia.edu) or 434-924-3200.
+[UVAEOCR@virginia.edu](mailto:UVAEOCR@virginia.edu) or 434-924-3200.
 
 **Harassment, Discrimination, and Interpersonal Violence.**
 
 The University of Virginia is dedicated to providing a safe and equitable
 learning environment for all students. If you or someone you know has been
 affected by power-based personal violence, more information can be found on the
-[https://www.virginia.edu/sexualviolence](UVA Sexual Violence website) that
+[UVA Sexual Violence website](https://www.virginia.edu/sexualviolence) that
 describes reporting options and resources available
-- [https://www.virginia.edu/sexualviolence](www.virginia.edu/sexualviolence).
+- [www.virginia.edu/sexualviolence](https://www.virginia.edu/sexualviolence).
 
 The same resources and options for individuals who experience sexual misconduct
 are available for discrimination, harassment, and
-retaliation. [https://uvapolicy.virginia.edu/policy/HRM-009](UVA prohibits
-discrimination and harassment) based on age, color, disability, family medical
+retaliation. [UVA prohibits discrimination and harassment](https://uvapolicy.virginia.edu/policy/HRM-009)
+based on age, color, disability, family medical
 or genetic information, gender identity or expression, marital status, military
 status, national or ethnic origin, political affiliation, pregnancy (including
 childbirth and related conditions), race, religion, sex, sexual orientation, or
-veteran status. [https://uvapolicy.virginia.edu/policy/HRM-010](UVA policy) also
+veteran status. [UVA policy](https://uvapolicy.virginia.edu/policy/HRM-010) also
 prohibits retaliation for reporting such behavior.
 
 If you witness or are aware of someone who has experienced prohibited conduct,
 you are encouraged to submit a report to
-[https://justreportit.virginia.edu/](Just Report It) (justreportit.virginia.edu)
-or [mailto:UVAEOCR@virginia.edu](contact EOCR), the office of Equal Opportunity
+[Just Report It (justreportit.virginia.edu)](https://justreportit.virginia.edu/)
+or [contact EOCR](mailto:UVAEOCR@virginia.edu), the office of Equal Opportunity
 and Civil Rights.
 
 If you would prefer to disclose such conduct to a confidential resource where
 what you share is not reported to the University, you can turn to
-[https://www.studenthealth.virginia.edu/caps](Counseling & Psychological
-Services (“CAPS”)) and
-[https://womenscenter.virginia.edu/counseling/our-counseling-services](Women's
-Center Counseling Staff and Confidential Advocates) (for students of all
-genders).
+[Counseling & Psychological
+Services (“CAPS”)](https://www.studenthealth.virginia.edu/caps) and
+[Women's Center Counseling Staff and Confidential Advocates](https://womenscenter.virginia.edu/counseling/our-counseling-services)
+(for students of all genders).
 
 As your professor and as a person, know that I care about you and your
 well-being and stand ready to provide support and resources as I can. As a
@@ -144,43 +143,3 @@ experience are not only necessary steps on your path but are also invaluable
 lessons in and of themselves. I wish to encourage and support you in activities
 related to your career development. To that end, please notify me by email as
 far in advance as possible to arrange for appropriate accommodations.
-
-**Student support team**
-
-You have many resources available to you when you experience academic or
-personal stresses. In addition to your professor, the School of Engineering and
-Applied Science has staff members located in Thornton Hall who you can contact
-to help manage academic or personal challenges. Please do not wait until the end
-of the semester to ask for help!
-
-***Learning***
-
-[https://engineering.virginia.edu/current-students/current-undergraduate-students/student-support/academic-coaching](Lisa Lampe), Assistant Dean for Undergraduate Affairs
-Director of Student Success (search underway)
-[mailto:cmacmasters@virginia.edu](Courtney MacMasters), Accessibility Specialist
-[https://engineering.virginia.edu/current-students/current-undergraduate-students/student-support/tutoring](Free tutoring) is available for most classes.
-
-***Health and Wellbeing***
-
-[mailto:mwu5gs@virginia.edu](Kelly Garrett), Assistant Dean of Students, Student Safety and Support
-Elizabeth Ramirez-Weaver, CAPS counselor
-Katie Fowler, CAPS counselor
-
-You may schedule time with the CAPS counselors through
-[https://www.studenthealth.virginia.edu/getting-started-caps](Student Health)
-(https://www.studenthealth.virginia.edu/getting-started-caps). When scheduling,
-be sure to specify that you are an Engineering student. You are also urged to
-use [https://www.studenthealth.virginia.edu/timelycare](TimelyCare) for either
-scheduled or on-demand 24/7 mental health care.
-
-***Community and Identity***
-
-The
-[https://engineering.virginia.edu/about/diversity-and-engagement/center-diversity-engineering](Center
-for Diversity in Engineering) (CDE) is a student space dedicated to advocating
-for underrepresented groups in STEM. It exists to connect students with the
-academic, financial, health, and community resources they need to thrive both at
-UVA and in the world. The CDE includes an open study area, event space, and
-staff members on site. Through this space, we affirm and empower equitable
-participation toward intercultural fluency and provide the resources necessary
-for students to be successful during their academic journey and future careers.
