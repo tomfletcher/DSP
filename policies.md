@@ -99,8 +99,7 @@ The University of Virginia is dedicated to providing a safe and equitable
 learning environment for all students. If you or someone you know has been
 affected by power-based personal violence, more information can be found on the
 [UVA Sexual Violence website](https://www.virginia.edu/sexualviolence) that
-describes reporting options and resources available
-- [www.virginia.edu/sexualviolence](https://www.virginia.edu/sexualviolence).
+describes reporting options and resources available.
 
 The same resources and options for individuals who experience sexual misconduct
 are available for discrimination, harassment, and
