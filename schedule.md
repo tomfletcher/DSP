@@ -3,37 +3,37 @@
 Download this: [Guide to Math Notation in Jupyter](examples/MathNotationGuide.ipynb)
 
 
-| Day     | Title / Notes                                                      | Reading               | Homework                                   |
-|---------|--------------------------------------------------------------------|-----------------------|--------------------------------------------|
-| Tu 8/26 | [Introduction](lectures/L00-Introduction.pdf)                      |                       |                                            |
-| Th 8/28 | [Signal Basics](lectures/L01-SignalBasics.pdf)                     |                       |                                            |
-| Tu 9/2  | [System Basics](lectures/L02-SystemBasics.pdf)<br>[Karplus-Strong.ipynb](examples/Karplus-Strong.ipynb) | [Karplus-Strong Wikipedia](https://en.wikipedia.org/wiki/Karplus%E2%80%93Strong_string_synthesis)   | [HW 1](homeworks/hw1.pdf), Due Tu 2/4<br>[woodchuck.wav](homeworks/woodchuck.wav)<br>[HW 1 Starter Notebook](homeworks/HW1-Starter.ipynb) |
-| Th 1/23 | [Linear Time-Invariant Systems](lectures/L03-LTISystems.pdf) |  |      |
-| Tu 1/28 | [Complex-Valued Signals](lectures/L04-ComplexSignals.pdf)<br>[ComplexSignals.ipynb](examples/ComplexSignals.ipynb) | |                  |
-| Th 1/30 | [Fourier Series](lectures/L05-FourierSeries.pdf)<br>[BassesAndBassoons.ipynb](examples/BassesAndBassoons.ipynb)<br>[bass audio](examples/double-bass_A1_1_forte_arco-normal.wav)<br>[bassoon audio](examples/bassoon_A2_1_forte_normal.wav) |  |  |
-| Tu 2/4  | [The Discrete Fourier Transform](lectures/L06-DiscreteFourierTransform.pdf) | | **HW 1 Due**<br>[HW 2](homeworks/hw2.pdf), Due Tu 2/18<br>[winniethepooh.wav](homeworks/winniethepooh.wav)<br>[bach.wav](homeworks/bach.wav)<br>[HW 2 Starter Notebook](homeworks/HW2-Starter.ipynb) |
-| Th 2/6  | [The DFT and Convolution](lectures/L07-DFTConvolution.pdf)         |                       |                                            |
-| Tu 2/11 | **Snow Day!** |         |  |
-| Th 2/13 | [The Fast Fourier Transform](lectures/L08-FFT_STFT.pdf)<br>**Quiz 1: L01 - L04** |                       |                                            |
-| Tu 2/18 | [Instantaneous Frequency](lectures/L09-InstantaneousFrequency.pdf) |   | **HW 2 Due** |
-| Th 2/20 | Instantaneous Frequency, cont. |                       | [HW 3](homeworks/hw3.pdf), Due Fri 3/7 |
-| Tu 2/25 | **Classes Canceled** |           |                                |
-| Th 2/27 | [z-Transform](lectures/L10-zTransform.pdf) | | |
-| Tu 3/4  | [More z-Transform](lectures/L11-zTransform2.pdf) | | |
-| Th 3/6  | [Poles and Zeros](lectures/L12-PolesAndZeros.pdf) | | **HW 3 Due, Fri 3/7** |
-| Tu 3/11 | *Spring Break -- no class*                   |                       |  |
-| Th 3/13 | *Spring Break -- no class*  | |
-| Tu 3/18 | [Frequency Response of an LTI System](lectures/L13-FrequencyResponse.pdf) | | [HW 4](homeworks/hw4.pdf), Due Th 3/27 |
-| Th 3/20 | Frequency Response, cont.<br>**Quiz 2: L06 - L09**<br>**(you should also review L04-L05)** | | |
-| Tu 3/25 | [Phase and Group Delay](lectures/L14-PhaseAndGroupDelay.pdf) | | |
-| Th 3/27 | [All-Pass and Minimum-Phase Systems](lectures/L15-AllPassAndMinimumPhase.pdf)<br>[z-transform practice](examples/zTransformProblems.pdf)<br>[(solutions)](examples/zTransformProblems-sol.pdf) | | **HW 4 Due**<br>[HW 5](homeworks/hw5.pdf), Due Tu 4/15<br>[synth.wav](homeworks/synth.wav) |
-| Tu 4/1  | [Filter Design Basics](lectures/L18-FilterDesignBasics.pdf) | | |
-| Th 4/3  | [More Filter Design](lectures/L19-MoreFilterDesign.pdf)<br>[WindowFunctions.ipynb](examples/WindowFunctions.ipynb) |     |                                            |
-| Tu 4/8  | [Sampling, Interpolation, and Aliasing](lectures/L16-SamplingAndAliasing.pdf) |  |     |
-| Th 4/10 | [The Sampling Theorem](lectures/L17-InterpolationAndSamplingTheorem.pdf)<br>**Quiz 3: L10 - L14** |  | |
-| Tu 4/15 | Introduction to Neural Networks  |  [Dive Into Deep Learning (book)](http://d2l.ai/)  | **HW 5 Due** |
-| Th 4/17 | Recurrent Neural Networks                                    |  | [HW 6](homeworks/hw6.pdf), Due Tu 4/29<br>[cho_weather.csv](homeworks/cho_weather.csv)<br>[RNNStarter.ipynb](homeworks/RNNStarter.ipynb)                                           |
-| Tu 4/22 | Long Short Term Memory Networks                             |  [LSTM blog](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)<br>[LSTM Wikipedia](https://en.wikipedia.org/wiki/Long_short-term_memory)      |                                            |
-| Th 4/24 | Transformers<br>**Quiz 4: L15 - L19**                      |  [Vaswani, et al., 2017 (Original Transformer paper)](https://arxiv.org/pdf/1706.03762)<br>[3blue1brown video on attention](https://www.youtube.com/watch?v=eMlx5fFNoYc)<br>[Very Cool Visual Demo of Transformer!](https://poloclub.github.io/transformer-explainer/)  |                                            |
-| Tu 4/29 | Exam Review                                                        |       | **HW 6 Due**         |
-| Fr 5/9  | **Final Exam: 9 AM - 12 noon**  |                       |                                            |
+| Day      | Title / Notes                                 | Reading | Homework |
+|----------|-----------------------------------------------|---------|----------|
+| Tu 8/26  | [Introduction](lectures/L00-Introduction.pdf) |         |          |
+| Th 8/28  | Signal Basics                                 |         |          |
+| Tu 9/2   | System Basics                                 |         |          |
+| Th 9/4   | Linear Time-Invariant Systems                 |         |          |
+| Tu 9/9   | Complex-Valued Signals                        |         |          |
+| Th 9/11  | Fourier Series                                |         |          |
+| Tu 9/16  | The Discrete Fourier Transform                |         |          |
+| Th 9/18  | The DFT and Convolution                       |         |          |
+| Tu 9/23  | The Fast Fourier Transform                    |         |          |
+| Th 9/25  | *catch-up day*                                |         |          |
+| Tu 9/30  | Instantaneous Frequency                       |         |          |
+| Th 10/2  | Instantaneous Frequency, cont.                |         |          |
+| Tu 10/7  | z-Transform                                   |         |          |
+| Th 10/9  | More z-Transform                              |         |          |
+| Tu 10/14 | *Fall Break - No Class!*                      |         |          |
+| Th 10/16 | Poles and Zeros                               |         |          |
+| Tu 10/21 | *Spring Break -- no class*                    |         |          |
+| Th 10/23 | *Spring Break -- no class*                    |         |          |
+| Tu 10/28 | Frequency Response of an LTI System           |         |          |
+| Th 10/30 | Frequency Response, cont.                     |         |          |
+| Tu 11/4  | *Election Day - No Class!*                    |         |          |
+| Th 11/6  | Phase and Group Delay                         |         |          |
+| Tu 11/11 | All-Pass and Minimum-Phase Systems            |         |          |
+| Th 11/13 | Filter Design Basics                          |         |          |
+| Tu 11/18 | More Filter Design                            |         |          |
+| Th 11/20 | Sampling, Interpolation, and Aliasing         |         |          |
+| Tu 11/25 | The Sampling Theorem                          |         |          |
+| Th 11/27 | Introduction to Neural Networks               |         |          |
+| Tu 12/2  | Recurrent Neural Networks                     |         |          |
+| Th 12/4  | Long Short Term Memory Networks               |         |          |
+| Tu 12/9  | Transformers                                  |         |          |
+| Tu 12/16 | **Final Exam: 2 - 5 PM**                      |         |          |

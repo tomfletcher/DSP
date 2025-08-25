@@ -21,16 +21,12 @@ their specific interests.
 
 ## Logistics
 
-* **Time:** Tue/Thu 11:00 AM - 12:15 PM
+* **Time:** Tue/Thu 9:30 AM - 10:45 AM
 * **Location:** Thornton E316 and online via Zoom
 * **Instructor:** Tom Fletcher (ptf8v *AT* virginia *DOT* edu)
-  - Office Hours: Wednesdays, 3 - 4pm in Rice 306
-* **TA:** Ferial Delavari
-  - Office Hours: Thursdays, 1 - 2pm in Olsson 105
-* **TA:** Kidus Fasil
-  - Office Hours: Mondays, 1 - 2pm in Olsson 105
-* **TA:** Spencer Hernandez
-  - Office Hours: Tuesdays, 2 - 3pm in Olsson 104
+  - Office Hours: TBD
+* **TA:** TBD
+  - Office Hours: TBD
 
 * **Textbook:** None required
 * **Software:** All homeworks will be done in [Jupyter](https://jupyter.org)
